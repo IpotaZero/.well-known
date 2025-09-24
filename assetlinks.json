@@ -1,0 +1,12 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "io.github.ipotazero.wy",
+            "sha256_cert_fingerprints": [
+                "15:EB:74:33:A1:C8:E2:37:79:2F:33:EC:C2:65:76:70:F7:ED:6E:02:47:A7:6C:8D:5A:1C:78:BE:46:85:AE:58"
+            ]
+        }
+    }
+]
