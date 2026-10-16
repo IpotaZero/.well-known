@@ -15,7 +15,8 @@
             "namespace": "android_app",
             "package_name": "io.github.ipotazero.The_Scattered_Days",
             "sha256_cert_fingerprints": [
-                "A6:79:1D:2D:AB:C0:82:1C:62:B1:49:87:09:11:22:54:10:A2:3B:57:34:06:9A:48:F8:10:2B:4E:48:27:C4:5D"
+                "A6:79:1D:2D:AB:C0:82:1C:62:B1:49:87:09:11:22:54:10:A2:3B:57:34:06:9A:48:F8:10:2B:4E:48:27:C4:5D",
+                "93:07:FF:78:EB:5A:44:1A:C2:C1:AE:5D:A6:F6:E1:04:72:86:08:2D:D3:DD:DF:D4:95:FD:93:30:62:88:0B:6E"
             ]
         }
     }
