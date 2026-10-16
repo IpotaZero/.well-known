@@ -8,5 +8,15 @@
                 "15:EB:74:33:A1:C8:E2:37:79:2F:33:EC:C2:65:76:70:F7:ED:6E:02:47:A7:6C:8D:5A:1C:78:BE:46:85:AE:58"
             ]
         }
+    },
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "io.github.ipotazero.The_Scattered_Days",
+            "sha256_cert_fingerprints": [
+                "A6:79:1D:2D:AB:C0:82:1C:62:B1:49:87:09:11:22:54:10:A2:3B:57:34:06:9A:48:F8:10:2B:4E:48:27:C4:5D"
+            ]
+        }
     }
 ]
